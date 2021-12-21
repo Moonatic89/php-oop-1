@@ -9,7 +9,10 @@
 </head>
 
 <body>
-    HELLO
+    <?php
+    require_once('movie.php');
+    ?>
+
 </body>
 
 </html>
